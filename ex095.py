@@ -40,4 +40,3 @@ while True:
     print(f'\n\nNome: {tabela[resp]["nome"]}')
     for e, c in enumerate(tabela[resp]["gols"]):
         print(f'......{e+1}° jogo: {c} gols......')
- 
